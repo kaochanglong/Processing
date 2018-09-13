@@ -1,5 +1,6 @@
 //Arc Clock with Digital and Date Screen Designed by Chang-Long Kao
 //Processing 3.3.7(Java mode)
+
 //constants
 float tau = TWO_PI; // define tau as TWO_PI 
 float rdc = 200; //radius for clock with defined circle
